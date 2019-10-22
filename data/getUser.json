@@ -1,0 +1,16 @@
+[
+    {
+        "uri": "/users/5",
+        "method": "GET",
+        "headers": {
+            "User-Agent": "Request-Promise"
+        }
+    },
+    {
+        "uri": "/users/8",
+        "method": "GET",
+        "headers": {
+            "User-Agent": "Request-Promise"
+        }
+    }
+]

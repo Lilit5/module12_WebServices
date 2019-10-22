@@ -1,0 +1,24 @@
+{
+  "name": "web-services",
+  "version": "1.0.0",
+  "description": "Web-services testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "mocha",
+    "rest",
+    "service"
+  ],
+  "author": "Lilit Sarsyan",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.0",
+    "mochawesome": "^3.0.2",
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5",
+    "request-promise": "^4.2.4"
+  }
+}
